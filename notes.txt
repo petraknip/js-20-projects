@@ -1,9 +1,0 @@
-Make a new repo in GitHub
-Copy de url
-Ga terug naar lokale project op pc.
-git init
-git remote add origin "url-repo-github"
-
-git add .
-git commit -m "message"
-git push origin master
